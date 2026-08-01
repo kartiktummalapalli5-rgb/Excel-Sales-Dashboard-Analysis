@@ -59,9 +59,7 @@ This dashboard transforms raw sales data into meaningful business insights throu
 ```
 ---
 # Dashboard Preview
-
-![Dashboard Preview](Dashboard/dashboard-preview.png)
----
+[Dashboard Preview](dashboard-preview.png)
 ## 📚 Skills Demonstrated
 - Data Cleaning
 - Data Analysis
