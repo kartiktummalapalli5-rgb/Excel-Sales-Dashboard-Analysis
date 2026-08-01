@@ -58,11 +58,9 @@ This dashboard transforms raw sales data into meaningful business insights throu
 └── .gitignore
 ```
 ---
-## 📊 Dashboard Preview
-> Add your dashboard screenshot inside the **Dashboard** folder and display it using the following markdown.
-```markdown
-![Dashboard Preview](Dashboard/Dashboard_Screenshot.png)
-```
+# Dashboard Preview
+
+![Dashboard Preview](Dashboard/dashboard-preview.png)
 ---
 ## 📚 Skills Demonstrated
 - Data Cleaning
